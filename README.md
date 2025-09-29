@@ -1,2 +1,2 @@
-# methylome_masterclass
- visualization only resource for methylome masterclass data
+# Methylome Masterclass
+This repo contains visualizations of jupyter notebooks with pre-executed cells and all methylome mastercclass videos.
