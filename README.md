@@ -1,4 +1,4 @@
-![Timeline of methylation analysis steps](https://github.com/niphilipp/methylome_masterclass/blob/main/media/images/timeline.png "Analysis steps")
+![Timeline of methylation analysis steps](media/images/timeline.png)
 
 This Website contains content created for the [methylome masterclass project](https://www.uni-giessen.de/de/fbz/zentren/hd/projekte/hessenhub/digll-jlu-projekte-2/laufende-jlu-interne-foerderprojekte/methylome-fp2025). Included are links to our explanatory YouTube videos and visualizations of the jupyter notebooks, which include visualizations and explanations as well as R workflows for the analysis of Illumina Methylation Beadchip data.
 
