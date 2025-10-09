@@ -1,8 +1,9 @@
 ---
 ---
 
-@import "{{ site.theme }}";
+@import "{{ jekyll-theme-cayman }}";
 
-.inner {
-  max-width: 75%;
+img {
+  width: auto;
+  height: auto;
 }
