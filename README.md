@@ -24,4 +24,5 @@ Currently this website and the included content are in active developement and w
 
 # Methylation data analysis workflow in R
 [analysis_notebook pdf](./notebooks/illumina_epicv2.pdf)
+
 [analysis_notebook markdown](./notebooks/illumina_epicv2_md/illumina_epicv2.md)
