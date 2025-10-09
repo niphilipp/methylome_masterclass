@@ -19,7 +19,8 @@ Currently this website and the included content are in active developement and w
 
 # Wetlab Part 2 (following dna extraction)
 [explanatory_notebook](./notebooks/experimental_short.pdf)
-[explanatory_notebook](./notebooks/experimental_short.md)
+
+[explanatory_notebook2](./notebooks/experimental_short.md)
 
 # Methylation data analysis workflow in R
 [analysis_notebook](./notebooks/illumina_epicv2.ipynb)
