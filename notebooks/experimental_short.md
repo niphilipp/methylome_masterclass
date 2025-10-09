@@ -2313,7 +2313,6 @@ kjIF+86ZTF7q6A8THpuOezD40vzQYOy2PYP1edKRfBi7TUqDsWc8KW9Z7AU/7Bu783Zdp8aExeaO
 5qiBCV8825ijBsfmqJbVbTqrIAAAAChJREFU8IYGc2VK4cshm/hBeL50ZsP+xiZD+fWhfruewaTj
 c9SxxP5/snJ2WkSHyN0AAAAASUVORK5CYII=
 " />
-</img>
 
 Methylierung ist meistens mit einer Herunterregulierung der Expression benachbarter Gene assoziiert. Dies ist im Allgemeinen darauf zurückzuführen, dass CpGs in Promotorregionen methyliert werden und die Methylgruppen das Binden von Transkriptionsfaktoren verhindern.
 
@@ -5167,7 +5166,6 @@ z9FMnE9kKk1ZfDf1TNSLZCnhfhGYpiQ6TVl8/U/OVLkQS1AXVf4hA/doQvknklnnFF0vytR+ik5T
 dF1M9GcokJlyQU54/hWVrvnMLVK8LBKYbibqf8AgexYVfI+KClYkMutiwtPMQJnL9r+BlSbb/9KY
 Jtv/0pcm2//SlybY/pfo/wOzH+r1spznGAAAAABJRU5ErkJggg==
 " />
-</img>
 
 Das "p" in CpG steht für die Phosphatgruppe, die die beiden Basen in der DNA verbindet. DNA Regionen, die eine besonders hohe Dichte an CpGs haben (egal ob methyliert oder nicht) bezeichnet man als CpG Inseln. An jede CpG Insel schließen sich beidseitig eine Shore-Region gefolgt von einer Shelf-Region an.
 
@@ -6653,7 +6651,6 @@ BJ9HraNNvLWOjb/Yah1xgsjxPjXOWsd2PXCqdXREsVvqL0KbgNAPbLSOOHY7XPddJwzLJa/j8mEE
 GH9aR2qPYn+B+7yO9pzXcRm7TZkcrE+31okir2NmYF4nDjn5StA6Rkfjq2WRk3e8BsZZ6xT9ZSo2
 9v8BaFsojn9xy90AAAAASUVORK5CYII=
 " />
-</img>
 
 Die Zellen, aus denen die DNA extrahiert wird, werden im Labor bei optimalen Bedingungen aufbewahrt. Dadurch wird sichergestellt, dass vor der Extraktion der DNA ausreichend Zellen vorhanden sind und die Zellen möglichst unbbeinflusst von Stressoren sind, die Einfluss auf die Methylierung haben könnten.
 
@@ -8117,7 +8114,6 @@ i03sthGAxoPWMZZ+pR37i3btL560ThTJF9d90a7bKN202NiYibfWKSX4Yq51jONyOub+Yr1PdZng
 T+tI7VHsL3Cf19Ge8zouY7epkIP1udY6UeR1TA3mdeKQk68GrWN0NL5aETl5x2tgnLVO0V9mY2P/
 H/GqKVuhmXFUAAAAAElFTkSuQmCC
 " />
-</img>
 
 Nachdem die Zellen von der Schale abgelöst und zu einem Pellet abzentrifugiert wurden startet die Extraktion der DNA. Dabei ist wichtig, dass die DNA möglichst gut von Proteinen und RNAs getrennt wird ohne zu viel DNA zu verlieren.
 
@@ -9586,7 +9582,6 @@ U+OsdWzXA6daR0cUu6X+IrQJCP3ARuuIY7fDdd91wrBS8jouH0aA8ad1pPYo9he4z+toz3kdl7Hb
 VMjB+mxrnSjyOmYO5nXikJOvBq1jdDS+WhE5ecdrYJy1TtFfZmJj/x+TDCgOSHP6xAAAAABJRU5E
 rkJggg==
 " />
-</img>
 
 Um die Methylierung aller CpGs überprüfen zu können, nutzen wir die sogenannte Bisulfit-Konversion. Die DNA wird dabei mit Bisulfit behandelt, wodurch unmethylierte Cytosine chemisch zu Uracil verändert und anschließend durch Replikation mit Thymin ersetzt werden.
 
@@ -12241,7 +12236,6 @@ EARBEAThBJTOQxAEQRAEQRAEQRAE4QQkohAEQRAEQRAEQRAEQTgBiSgEQRAEQRAEQRAEQRBOQCIK
 QRAEQRAEQRAEQRCEE5CIQhAEQRAEQRAEQRAE4QQkohAEQRAEQRAEQRAEQTgBiSgEQRAEQRAEQRAE
 QRBO8H8xMiAKblM1rgAAAABJRU5ErkJggg==
 " />
-</img>
 
 ### 5 Library Vorbereitung
 <img controls src="data:image/png;base64, iVBORw0KGgoAAAANSUhEUgAABzMAAAClCAYAAADYpdD3AAAABGdBTUEAALGPC/xhBQAAAAFzUkdC
@@ -13705,7 +13699,6 @@ HLfTMY8X63WqywKfR62jTby1jk282GodcYHI8To1zlrH9nrgVOvoiHK3NF6EPgFhHNhoHXHudnjd
 d10wrJa6jsuHEWD8aR2pP4rjBe7rOtpzXcdl7jZVsrE+21onirqOqcO6Thxq8rWgdYyOJlaroibv
 +BoYZ61TipeZ+Nj/B4N0DA3yEJOCAAAAAElFTkSuQmCC
 " />
-</img>
 
 Nach der Bisulfit Conversion muss die DNA weiter vorbereitet werden, um mit dem Illumina Methylation BeadChip (eigentlich ein Microarray) kompatibel zu sein.
 Das Ziel hierbei besteht darin:
@@ -17351,7 +17344,6 @@ sRznZmz/UuX8A5/HKmU0MS+6x6h9R5kMAh4WPtZC6tw/geiIgcggqCfOeVHnjSL7IPx77yyDSJUy
 lFmfoutb5ZkGXYfSZQYxwzgNg39OVpIkSZIkSZIkSVIx33sTU5IkSZIkSZIkSZJ+iA8xJUmSJEmS
 JEmSJJXiQ0xJkiRJkiRJkiRJpfgQU5IkSZIkSZIkSVIpH/JAbHLrVdaVAAAAAElFTkSuQmCC
 " />
-</img>
 
 ### 6 Experimentelles Design und Samplesheets
 
@@ -22949,7 +22941,6 @@ O9eWM4oFQQEnQRYEQRAEQRAEQRAEQRCEqxDPfAsQhExAFokFQRAEQRAEQRAEQRCEqxlZKBYEQRAE
 QRAEQRAEQRAEQbjGkYViQRAEQRAEQRAEQRAEQRCEaxxZKBYEQRAEQRAEQRAEQRAEQbjGkYViQRAE
 QRAEQRAEQRAEQRCEaxxZKBYEQRAEQRAEQRAEQRAEQbjG+b/7TMNBSJ4ZfQAAAABJRU5ErkJggg==
 " />
-</img>
 
 ### 7 Infinium MethylationEPIC v2.0 BeadChip
 <img controls src="data:image/png;base64, iVBORw0KGgoAAAANSUhEUgAABzMAAAClCAYAAADYpdD3AAAABGdBTUEAALGPC/xhBQAAAAFzUkdC
@@ -24411,7 +24402,6 @@ OrbrgVOto2OK3VJ/EdoEhH5go3XEsdvhuu86YVgteR2XDyPA+NM6UnsU+wvc53W057yOy9htquRg
 fba1Thx5HTMH8zpJyMnXgtYxOh5frYqcvOM1MMlap+wvM7Gx/w+8C6YxBQePoQAAAABJRU5ErkJg
 gg==
 " />
-</img>
 
 Der Infinium MethylationEPIC v2.0 BeadChip ist ein Microarray. Das bedeutet, auf dem BeadChip befinden sich Sonden bzw. Probes für über 935 000 Positionen im menschlichen Genom. Als Sonde bezeichnet man ein Stück einzelsträngige DNA, das auf dem BeadChip befestigt ist und eine einzigartige Sequenz im menschlichen Genom abdeckt. Für jede der 935 000 Positionen gibt es eine Vielzahl identischer Sonden, die sich auf einem Spot befinden. Die Aufgabe der Sonden ist es, mit Fragmenten aus der Library zu hybridisieren und daraufhin ein erfassbares Signal zu erzeugen, über das die Menge hybridisierter DNA eines Spots mit anderen Spots verglichen werden kann.
 
@@ -29339,7 +29329,6 @@ Yp2PSTJ8t2qbVYtyuQ9VcRITuW0vTnAyLunsd5IR67iO2++pKVpjcNJ9yjGtIklZ11GU+7BQd+p1
 8jzXNEU5tapdf09VHeekxIFuP/9SGOskCzdjnWS8v4wG360qp+y7XY4XNcMwTM1tjysIgiAIgiAI
 giAIgiAIgiAIgiAIgvAx+P/mTEe5u8oZaAAAAABJRU5ErkJggg==
 " />
-</img>
 
 ### 8 Sonden (Probes) und Sondentypen
 <img controls src="data:image/png;base64, iVBORw0KGgoAAAANSUhEUgAABzMAAAClCAYAAADYpdD3AAAABGdBTUEAALGPC/xhBQAAAAFzUkdC
@@ -30803,7 +30792,6 @@ XqQC3rnPuszdkMefcXh9scndNgLQeNA6xjKutON40a7jxZPWiaL44rov2rWN0kWLjY+ZeGudUoEv
 7fC677pgWCl1HZcPI8D40zpSfxTHC9zXdbTnuo7L3G0qZGO93FonirqOqcG6Thxq8tWgdYyOJlYr
 oibv+BoYZ61TjJfp+Nj/B87xmUtn+ilpAAAAAElFTkSuQmCC
 " />
-</img>
 
 Nicht alle Sonden auf dem BeadChip sind gleich. Die grundlegende Funktionsweise beruht bei allen Sonden darauf, spezifisch die methylierten bzw. unmethylierten DNA Fragmente einer genomischen Region zu binden. Der Unterschied liegt darin, wie aus der gebundenen DNA das Methylierungslevel der spezifischen Region bestimmt wird. In allen Fällen wird ein Fluoreszenzsignal der methylierten Sonden mit dem Fluoreszenzsignal der unmethylierten Sonden verglichen.
 
@@ -36599,7 +36587,6 @@ cgH9xxzq37DnUK+WR2UO+WZDnEOuNSUxh/rOFvWeSqMzh7gfGoxP1hRwP1TULHHN9mqZOdRHVu7f
 Wym8OeTVBwprDhWdLWQOcT/Ut9DmkM+5nE8tFzGHeq81ozSHrleP/wfKEc68o9tXzgAAAABJRU5E
 rkJggg==
 " />
-</img>
 
 Von allen Typ I Sonden gibt es zwei Versionen: Eine Version hybridisiert mit der unmethylierten, die andere mit der methylierten DNA nach Bisulfit-Konversion. Nach der Bindung wird die Sonden-DNA um eine einzelne Base erweitert, die mit einem Fluoreszenzfarbstoff markiert ist. Da die Positionen beider Sondenversionen auf dem Chip bekannt sind, kann nach Hybridisierung und Verlängerung das Fluoreszenzsignal der beiden Sondenversionen verglichen und daraus das Methylierungslevel bestimmt werden.
 
