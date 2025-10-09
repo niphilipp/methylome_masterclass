@@ -19,7 +19,7 @@ Currently this website and the included content are in active developement and w
 # DNA extraction
 [![DNA_Extraction](https://img.youtube.com/vi/1IFKIe4Fga4/0.jpg)](https://www.youtube.com/watch?v=1IFKIe4Fga4)
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=1IFKIe4Fga4"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1IFKIe4Fga4?si=EtSfOye7gIuo0FEz"></iframe>
 
 ## Jupyter Notebooks
 
