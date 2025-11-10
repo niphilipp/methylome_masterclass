@@ -1684,7 +1684,6 @@ crxPjbPWsV0PnGodHVHslvqL0CYg9AMbrSOO3Q7XfdcJw0rJ67h8GAHGn9aR2qPYX+A+r6M953Vc
 xm5TIQfrc611osjrmBrM68QhJ18NWsfoaHy1InLyjtfAOGudor/Mxsb+P8H8DMPxwNIuAAAAAElF
 TkSuQmCC
 " />
-</img>
 
 Alle Daten müssen für die Verarbeitung mit ChAMP in einem Verzeichnis abgelegt werden. Das Verzeichnis enthält sowohl alle .idat Dateien (jeweils grün und rot pro Probe), als auch das Samplesheet. ChAMP sucht initial eine .csv Datei, die als Samplesheet gelesen wird (bei mehr als einer .csv Dateien treten Probleme auf), liest daraus Sentrix_ID und Sentrix_Position, und sucht anhand dieser Informationen die .idat Dateien benannt in der Form *Sentrix_ID*_*Sentrix_position*_Grn.idat und *Sentrix_ID*\_*Sentrix_position*\_Red.idat.
 
@@ -3506,7 +3505,6 @@ ibfWKSf4Yq51jONyOub+Yr1PdZng86h1tIm31rHxF1utI04QOd6nxlnr2K4HTrWOjih2S/1FaBMQ
 +oGN1hHHbofrvuuEYbXkdVw+jADjT+tI7VHsL3Cf19Ge8zouY7epkoP12dY6UeR1zBzM68QhJ18L
 WsfoaHy1KnLyjtfAOGudkr/MxMb+PzZ4LGDE9MClAAAAAElFTkSuQmCC
 " />
-</img>
 
 Das Objekt *MyLoad* enthält, je nach *methValue* Beta- oder M-Werte für alle Sonden und Proben, die nach der Filterung übrig sind. Nach dem Filterungsprozess sollten die Daten visualisiert werden, um eine erste Qualitätskontrolle durchführen zu können.
 
@@ -5345,7 +5343,6 @@ tJHZopVNmGj8xXiwReNYUFq10WHdJgLfdx27xTHZRGRjjmO32K/geB0ydv4iFfDObdZl7Ibc/4zD
 8ad1pPYo9he4z+toz3kdl7HbVMjB+nxrnSjyOqYG8zpxyMlXg9YxOhpfrYicvOM1MM5ap+gvc7Gx
 fwc6Lya7vZhV1QAAAABJRU5ErkJggg==
 " />
-</img>
 
 Es kann vorkommen, dass Daten selbst nach der Normalisierung noch nicht perfekt aussehen. "Nicht perfekt" bezieht sich hierbei auf erkennbare Unterschiede zwischen Proben, zwischen denen keine Unterschiede zu erwarten sind. Das können beispielsweise Replikate desselben Gewebes sein, die sich im MDS-Plot auftrennen.
 
@@ -7053,7 +7050,6 @@ Hdv1wKnW0RHlbmm8CH0Cwjiw0Tri3O1w3XddMKyUuo7LhxFg/GkdqT+K4wXu6zrac13HZe42FXKw
 PtdaJ4q6jqnBuk4cavLVoHWMjiZWK6Im73gNjLPWKcbLbHzs/wO0WvaBgsq7UQAAAABJRU5ErkJg
 gg==
 " />
-</img>
 
 Nach erfolgreichem Laden der Daten, anschließendem Normalisieren und dem entfernen von Batch-Effekten kann jetzt final die Methylierung zwischen Gruppen von Interesse verglichen werden.
 
@@ -24265,7 +24261,6 @@ AAAAAACgEJEXAAAAAAAAoBCRFwAAAAAAAKAQkRcAAAAAAACgEJEXAAAAAAAAoBCRFwAAAAAAAKAQ
 kRcAAAAAAACgEJEXAAAAAAAAoBCRFwAAAAAAAKAQkRcAAAAAAACgEJEXAAAAAAAAoBCRFwAAAAAA
 AKAQkRcAAAAAAACgkP8G+Y8EQI4SJUQAAAAASUVORK5CYII=
 "/>
-</img>
 
 ### Bestimmung und Visualisierung von differentiell methylierten Regionen (DMRs)
 Nach der Evaluation von DMPs können diese zu DMRs zusammengefasst werden. Eine DMR ist eine Region, in der sich besonders viele DMPs befinden.
@@ -41446,4 +41441,3 @@ FwAAAAAAAAAAAAAMhJIXAAAAAAAAAAAAAAyEkhcAAAAAAAAAAAAADISSFwAAAAAAAAAAAAAMhJIX
 AAAAAAAAAAAAAAyEkhcAAAAAAAAAAAAADISSFwAAAAAAAAAAAAAMhJIXAAAAAAAAAAAAAAyEkhcA
 AAAAAAAAAAAADOT/AU/0NT89wMDDAAAAAElFTkSuQmCC
 "/>
-</img>
