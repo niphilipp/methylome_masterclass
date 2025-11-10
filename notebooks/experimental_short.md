@@ -24411,7 +24411,7 @@ fba1Thx5HTMH8zpJyMnXgtYxOh5frYqcvOM1MMlap+wvM7Gx/w+8C6YxBQePoQAAAABJRU5ErkJg
 gg==
 " />
 
-Der Infinium MethylationEPIC v2.0 BeadChip ist ein Microarray mit dem man die Methylierung vieler Regionen im Genom gleichzeitig bestimmen kann. Das bedeutet, auf dem BeadChip befinden sich Sonden bzw. Probes für über 935 000 Positionen im menschlichen Genom. Als Sonde bezeichnet man ein Stück einzelsträngige DNA, das auf dem BeadChip befestigt ist und eine einzigartige Sequenz im menschlichen Genom abdeckt. Für jede der 935 000 Positionen gibt es eine Vielzahl identischer Sonden, die sich auf einem Spot befinden. Die Aufgabe der Sonden ist es, mit Fragmenten aus der Library zu hybridisieren und daraufhin ein erfassbares Signal zu erzeugen, über das die Menge hybridisierter DNA eines Spots mit anderen Spots verglichen werden kann.
+Der Infinium MethylationEPIC v2.0 BeadChip ist ein Microarray mit dem man die Methylierung vieler Regionen im Genom gleichzeitig bestimmen kann.Auf dem BeadChip befinden sich Sonden bzw. Probes für über 935 000 Positionen im menschlichen Genom. Als Sonde bezeichnet man ein Stück einzelsträngige DNA, das auf dem BeadChip befestigt ist und eine einzigartige Sequenz im menschlichen Genom abdeckt. Für jede der 935 000 Positionen gibt es eine Vielzahl identischer Sonden, die sich auf einem Spot befinden. Die Aufgabe der Sonden ist es, mit Fragmenten aus der Library zu hybridisieren und daraufhin ein erfassbares Signal zu erzeugen, über das die Menge hybridisierter DNA eines Spots mit anderen Spots verglichen werden kann.
 
 <img width="1400" controls src="data:image/png;base64, iVBORw0KGgoAAAANSUhEUgAABzIAAAIXCAYAAAD3+hieAAAABHNCSVQICAgIfAhkiAAAABl0RVh0
 U29mdHdhcmUAZ25vbWUtc2NyZWVuc2hvdO8Dvz4AAAAqdEVYdENyZWF0aW9uIFRpbWUARGkgMjIg
@@ -29337,6 +29337,10 @@ Yp2PSTJ8t2qbVYtyuQ9VcRITuW0vTnAyLunsd5IR67iO2++pKVpjcNJ9yjGtIklZ11GU+7BQd+p1
 8jzXNEU5tapdf09VHeekxIFuP/9SGOskCzdjnWS8v4wG360qp+y7XY4XNcMwTM1tjysIgiAIgiAI
 giAIgiAIgiAIgiAIgvAx+P/mTEe5u8oZaAAAAABJRU5ErkJggg==
 " />
+
+Von Illumina gibt es ebenfalls ein kurzes Video, dass die Grundlagen der Methodik visualisiert:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SQpvGKqGUEU?si=iRsaQinsiDWFgg4o" title="Illumina Methylation Arrays" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### 8 Sonden (Probes) und Sondentypen
 <img controls src="data:image/png;base64, iVBORw0KGgoAAAANSUhEUgAABzMAAAClCAYAAADYpdD3AAAABGdBTUEAALGPC/xhBQAAAAFzUkdC
