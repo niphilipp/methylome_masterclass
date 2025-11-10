@@ -10,7 +10,7 @@ Currently this website and the included content are in active developement and w
 <iframe width="600" height="450" src="https://youtu.be/pL5ULAdViNg?si=0c-6LkAgePfHdbNN" title="Introduction" frameborder="0" allowfullscreen></iframe>
 
 # Cell culture
-<iframe width="600" height="450" src="https://youtu.be/53bKR2kWJI0?si=UygumxviSmkJZlTo" title="Cell culture" frameborder="0" allowfullscreen></iframe>
+<iframe width="600" height="450" src="https://www.youtube.com/watch?v=53bKR2kWJI0" title="Cell culture" frameborder="0" allowfullscreen></iframe>
 
 # DNA extraction
 <iframe width="600" height="450" src="https://youtu.be/ClW9PbVJoeQ?si=ob-psYO_s6r19dUw" title="DNA extraction" frameborder="0" allowfullscreen></iframe>
