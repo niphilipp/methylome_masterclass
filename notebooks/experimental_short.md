@@ -5190,6 +5190,8 @@ Die Gewinnung von DNA aus Proben findet experimentell statt. Um den Prozess von 
 
 ### 1 Intro
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pL5ULAdViNg?si=D_hWlhGetATYaqiT" title="Intro" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ### 2 Zellkultur
 <img controls src="data:image/png;base64, iVBORw0KGgoAAAANSUhEUgAABzMAAAClCAYAAADYpdD3AAAABGdBTUEAALGPC/xhBQAAAAFzUkdC
 AdnJLH8AAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAAAZiS0dE
@@ -6652,7 +6654,11 @@ GH9aR2qPYn+B+7yO9pzXcRm7TZkcrE+31okir2NmYF4nDjn5StA6Rkfjq2WRk3e8BsZZ6xT9ZSo2
 9v8BaFsojn9xy90AAAAASUVORK5CYII=
 " />
 
+
+
 Die Zellen, aus denen die DNA extrahiert wird, werden im Labor bei optimalen Bedingungen aufbewahrt. Dadurch wird sichergestellt, dass vor der Extraktion der DNA ausreichend Zellen vorhanden sind und die Zellen möglichst unbbeinflusst von Stressoren sind, die Einfluss auf die Methylierung haben könnten.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/53bKR2kWJI0?si=t6zZkPtgTbjnazBZ" title="Zellkultur" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### 3 DNA Extraktion
 <img controls src="data:image/png;base64, iVBORw0KGgoAAAANSUhEUgAABzMAAAClCAYAAADYpdD3AAAABGdBTUEAALGPC/xhBQAAAAFzUkdC
@@ -8118,6 +8124,8 @@ H/GqKVuhmXFUAAAAAElFTkSuQmCC
 Nachdem die Zellen von der Schale abgelöst und zu einem Pellet abzentrifugiert wurden startet die Extraktion der DNA. Dabei ist wichtig, dass die DNA möglichst gut von Proteinen und RNAs getrennt wird ohne zu viel DNA zu verlieren.
 
 Nachdem die DNA aus den Zellen extrahiert wurde, folgen weitere experimentelle Schritte, die dazu dienen, die Methylierung der DNA innerhalb einer Probe festzustellen. Da die Methylgruppen der methylierten Cytosine nicht ohne weiteres detektiert werden können, nutzen wir einen experimentellen Ansatz, der die Methylierung als epigenetische Modifikation der DNA in der Sequenz der DNA sichtbar macht.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ClW9PbVJoeQ?si=DDklB5l8P8eqHViM" title="DNA-Extraktion" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Von der DNA zur Methylierung
 
