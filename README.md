@@ -7,13 +7,19 @@ Currently this website and the included content are in active developement and w
 ## Explanatory Videos (the images link to YouTube)
 
 # Introduction
-<iframe width="600" height="450" src="https://youtu.be/pL5ULAdViNg?si=0c-6LkAgePfHdbNN" title="Introduction" frameborder="0" allowfullscreen></iframe>
+<iframe width="600" height="450" src="https://www.youtube.com/watch?v=pL5ULAdViNg" title="Introduction" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="600" height="450" src="https://www.youtube.com/watch?v=7ZjCiv3Ci98" title="Introduction d" frameborder="0" allowfullscreen></iframe>
 
 # Cell culture
 <iframe width="600" height="450" src="https://www.youtube.com/watch?v=53bKR2kWJI0" title="Cell culture" frameborder="0" allowfullscreen></iframe>
 
+<iframe width="600" height="450" src="https://www.youtube.com/watch?v=vncJTRz_ym0" title="Cell culture d" frameborder="0" allowfullscreen></iframe>
+
 # DNA extraction
-<iframe width="600" height="450" src="https://youtu.be/ClW9PbVJoeQ?si=ob-psYO_s6r19dUw" title="DNA extraction" frameborder="0" allowfullscreen></iframe>
+<iframe width="600" height="450" src="https://www.youtube.com/watch?v=ClW9PbVJoeQ" title="DNA extraction" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="600" height="450" src="https://www.youtube.com/watch?v=1IFKIe4Fga4" title="DNA extraction d" frameborder="0" allowfullscreen></iframe>
 
 # Introduction to Illumina Methylation Microarrays (from Illumina)
 <iframe width="600" height="450" src="https://www.youtube.com/embed/SQpvGKqGUEU?si=BWWmaos5MUtv05Ib" title="Introduction to Illumina Methylation Microarrays (from Illumina)" frameborder="0" allowfullscreen></iframe>
