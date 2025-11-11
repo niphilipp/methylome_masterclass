@@ -24411,7 +24411,7 @@ fba1Thx5HTMH8zpJyMnXgtYxOh5frYqcvOM1MMlap+wvM7Gx/w+8C6YxBQePoQAAAABJRU5ErkJg
 gg==
 " />
 
-Der Infinium MethylationEPIC v2.0 BeadChip ist ein Microarray mit dem man die Methylierung vieler Regionen im Genom gleichzeitig bestimmen kann.Auf dem BeadChip befinden sich Sonden bzw. Probes für über 935 000 Positionen im menschlichen Genom. Als Sonde bezeichnet man ein Stück einzelsträngige DNA, das auf dem BeadChip befestigt ist und eine einzigartige Sequenz im menschlichen Genom abdeckt. Für jede der 935 000 Positionen gibt es eine Vielzahl identischer Sonden, die sich auf einem Spot befinden. Die Aufgabe der Sonden ist es, mit Fragmenten aus der Library zu hybridisieren und daraufhin ein erfassbares Signal zu erzeugen, über das die Menge hybridisierter DNA eines Spots mit anderen Spots verglichen werden kann.
+Der Infinium MethylationEPIC v2.0 BeadChip ist ein Microarray mit dem man die Methylierung vieler Regionen im Genom gleichzeitig bestimmen kann. Auf dem BeadChip befinden sich Sonden bzw. Probes für über 935 000 Positionen im menschlichen Genom. Als Sonde bezeichnet man ein Stück einzelsträngige DNA, das auf dem BeadChip befestigt ist und eine einzigartige Sequenz im menschlichen Genom abdeckt. Für jede der 935 000 Positionen gibt es eine Vielzahl identischer Sonden, die sich auf einem Spot befinden. Die Aufgabe der Sonden ist es, mit Fragmenten aus der Library zu hybridisieren und daraufhin ein erfassbares Signal zu erzeugen, über das die Menge hybridisierter DNA eines Spots mit anderen Spots verglichen werden kann.
 
 <img width="1400" controls src="data:image/png;base64, iVBORw0KGgoAAAANSUhEUgAABzIAAAIXCAYAAAD3+hieAAAABHNCSVQICAgIfAhkiAAAABl0RVh0
 U29mdHdhcmUAZ25vbWUtc2NyZWVuc2hvdO8Dvz4AAAAqdEVYdENyZWF0aW9uIFRpbWUARGkgMjIg
